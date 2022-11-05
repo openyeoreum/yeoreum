@@ -1,0 +1,9 @@
+# Ignore Files
+/.pytest_cache/
+/__pycache__/
+*.pyc*
+*.egg*
+/dist/
+/build/
+/.idea/
+*.DS_Store*
